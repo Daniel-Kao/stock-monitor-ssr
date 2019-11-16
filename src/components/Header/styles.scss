@@ -1,0 +1,53 @@
+@import '../../themes/theme';
+
+.headerNav {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: rem(44);
+  line-height: rem(44);
+  background-color: $bgColor1;
+  // padding: 0 0.16rem 0 0;
+  z-index: 100;
+  .content {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    .left {
+      position: relative;
+      width: rem(50);
+      height: rem(25);
+      margin-left: rem(8);
+      border-radius: rem(15);
+      text-align: center;
+      .img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: rem(25);
+        height: rem(25);
+        background-size: contain;
+        @include bg-image('../../assets/../assets/images/icon_Back');
+      }
+    }
+    .title {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: rem($f2);
+      color: $fontColor1;
+    }
+    .right {
+      border-radius: rem(25);
+      padding: rem(17);
+      font-size: rem($f4);
+      line-height: rem(24);
+      color: $fontColor2;
+    }
+  }
+}

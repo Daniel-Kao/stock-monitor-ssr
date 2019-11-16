@@ -1,0 +1,42 @@
+// scss 主题，不会单独生成文件，可以统一管理 颜色，字体等主题样式
+// 变量，函数等
+
+@function rem($n) {
+  @return $n / 100 * 1rem;
+}
+// ************************  page background color ************************
+$bgColor1: #ffffff; //页面背景颜色1
+$bgColor2: #f4f4f4; //页面背景颜色2
+
+// ************************  font color ************************
+$fontColor1: #333333;
+$fontColor2: #858585;
+$fontColor3: #de5743;
+$fontColor4: #c2c2c2;
+$fontColor5: #004ecc;
+$fontColor6: #98b8eb;
+$fontColor7: #29a691;
+// ************************  font size ************************
+$f1: 21;
+$f2: 19;
+$f3: 17;
+$f4: 15;
+$f5: 13;
+$f6: 11;
+
+// ************************ bg-img Mixin ************************
+@mixin bg-image($url) {
+  background-image: url($url+'@2x.png');
+  background-repeat: no-repeat;
+  @media (min-device-pixel-ratio: 3) {
+    background-image: url($url+'@3x.png');
+  }
+}
+
+// ************************  common container Mixin ************************
+@mixin container-style {
+  position: absolute;
+  top: rem(44);
+  background-color: $bgColor2;
+  width: 100%;
+}

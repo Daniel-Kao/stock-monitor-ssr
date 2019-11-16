@@ -3,9 +3,11 @@ const nodeExternals = require("webpack-node-externals");
 const merge = require("webpack-merge");
 const baseConfig = require("./webpack.base");
 
+const isDev = process.env.NODE_ENV === "development";
+
 const serverConfig = {
   target: "node",
-  mode: "development",
+  mode: isDev ? "development" : "production",
   entry: path.resolve(__dirname, "../src/server/index.js"),
   output: {
     filename: "bundle.js",
@@ -26,6 +28,24 @@ const serverConfig = {
               }
             }
           }
+        ]
+      },
+      {
+        test: /\.scss$/,
+        include: path.resolve(__dirname, "../src"),
+        use: [
+          "isomorphic-style-loader",
+          {
+            loader: "css-loader",
+            options: {
+              importLoaders: 1,
+              modules: {
+                mode: "local",
+                localIdentName: "[local]-[hash:base64:5]"
+              }
+            }
+          },
+          "sass-loader"
         ]
       }
     ]

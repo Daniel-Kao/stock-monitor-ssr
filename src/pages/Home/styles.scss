@@ -1,0 +1,96 @@
+@import '../../themes/theme';
+
+.container {
+  @include container-style;
+  .header {
+    @include bg-image('../../assets/images/banner-details-page');
+    width: 100%;
+    height: rem(152);
+    background-size: contain;
+  }
+  .setting {
+    margin-bottom: rem(8);
+    .strategyHeader {
+      position: relative;
+      font-size: rem($f3);
+      line-height: rem(68);
+      padding-left: rem(44);
+      &::before {
+        content: '';
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: rem(16);
+        @include bg-image('../../assets/images/icon-setting');
+        background-size: contain;
+        height: rem(20);
+        width: rem(20);
+      }
+    }
+    :global(.am-list-content) {
+      font-size: rem(17);
+    }
+    :global(.am-list-item) {
+      margin: 0 rem(16);
+      padding: 0;
+    }
+    :global(.am-list-item img) {
+      width: rem(42);
+      height: rem(42);
+    }
+    :global(.am-list-brief) {
+      font-size: rem(13);
+    }
+    :global(.am-list-body .am-list-line) {
+      border: none;
+      padding: rem(21) 0;
+    }
+    :global(.am-list-item:not(:last-child)) {
+      border-bottom: solid rem(1) #ebebeb;
+      padding: 0;
+    }
+    :global(.am-list-item .am-list-line-multiple) {
+      padding-right: 0;
+    }
+  }
+  .about {
+    :global(.am-list-item:not(:last-child)) {
+      border-bottom: solid rem(1) #ebebeb;
+    }
+    :global(.am-list-item) {
+      min-height: rem(56);
+      margin: 0 rem(16);
+      padding: 0;
+    }
+    :global(.am-list-item:first-child) {
+      min-height: rem(68);
+      padding-left: rem(16);
+      margin: 0;
+    }
+    :global(.am-list-thumb) {
+      margin-right: rem(12);
+    }
+    :global(.am-list-thumb img) {
+      width: rem(20);
+      height: rem(20);
+    }
+    :global(.am-list-content) {
+      font-size: rem(17);
+    }
+    :global(.am-list-item:not(:first-child) .am-list-thumb img) {
+      width: rem(16);
+      height: rem(16);
+    }
+    :global(.am-list-content) {
+      font-size: rem(15);
+      color: #858585;
+    }
+    :global(.am-list-item:first-child .am-list-content) {
+      font-size: rem(17);
+      color: #333333;
+    }
+  }
+  :global(.am-list-body div:not(:last-child) .am-list-line::after) {
+    background-color: #fff !important;
+  }
+}

@@ -1,10 +1,11 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import { renderRoutes } from "react-router-config";
-import { Provider } from "react-redux";
-import routes from "../Routes";
-import { getClientStore } from "../store";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { renderRoutes } from 'react-router-config';
+import { Provider } from 'react-redux';
+import routes from '../Routes';
+import { getClientStore } from '../store';
+import '../global.css';
 
 const App = () => {
   return (
@@ -14,4 +15,4 @@ const App = () => {
   );
 };
 
-ReactDOM.hydrate(<App />, document.getElementById("root"));
+ReactDOM.hydrate(<App />, document.getElementById('root'));

@@ -1,0 +1,330 @@
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }
+{ Error: Cannot find module 'react'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Module.Hook._require.Module.require (/Users/daniel/.nvm/versions/node/v10.16.3/lib/node_modules/pm2/node_modules/_require-in-the-middle@4.0.1@require-in-the-middle/index.js:51:29)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:938)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at Module.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:2:1185)
+    at n (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:110)
+    at /Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:902
+    at Object.<anonymous> (/Users/daniel/development/react-ssr项目/stock-monitor-ssr/dist/bundle.js:1:912)
+    at Module._compile (internal/modules/cjs/loader.js:778:30) code: 'MODULE_NOT_FOUND' }

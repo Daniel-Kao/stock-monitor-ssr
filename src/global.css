@@ -1,0 +1,107 @@
+/* reset */
+@charset "utf-8";
+/* CSS Document */
+body,
+div,
+ol,
+ul,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+th,
+header,
+main,
+section,
+td,
+dl,
+dd,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  font-size: 12px;
+}
+a:hover {
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+b,
+strong {
+  font-weight: normal;
+  font-size: 12px;
+  font-style: normal;
+}
+i,
+em {
+  font-style: normal;
+}
+img {
+  border: 0;
+}
+input {
+  outline: none;
+  border: none;
+}
+.clearfix:after {
+  content: ' ';
+  display: block;
+  height: 0;
+  overflow: hidden;
+  clear: both;
+}
+body::-webkit-scrollbar {
+  width: 0px !important;
+}
+
+body::-webkit-scrollbar {
+  display: none !important;
+}
+
+/* end reset */
+
+html {
+  font-size: calc(100vw / 3.75);
+  font-family: 'PingFang SC', Helvetica, Tahoma, Arial, STXihei, '华文细黑', 'Microsoft YaHei',
+    '微软雅黑', SimSun, '宋体', Heiti, '黑体', sans-serif;
+}
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  /* ios禁止长按与选择 */
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+}
+#root {
+  display: flex;
+}
+
+body {
+  margin: 0;
+  background-color: #f4f4f4;
+}
+.am-pull-to-refresh-content-wrapper {
+  overflow: visible;
+}
